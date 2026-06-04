@@ -1,0 +1,6 @@
+{
+  "name": "Manage Top ERP",
+  "description": "Автоматизированная ERP/BPM-платформа для малого и среднего бизнеса с ИИ-калькулятором эффективности и сквозной воронкой лидогенерации.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
